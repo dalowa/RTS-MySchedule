@@ -1,0 +1,14 @@
+.Column {
+    box-sizing: border-box;
+    
+    background-color: #eaff30;
+    border: 0.1em solid #000;
+}
+
+.title {
+    margin: 0;
+    padding: 0 0.5em;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    border-bottom: 1px solid #000;
+}

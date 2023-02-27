@@ -1,0 +1,55 @@
+.NotDone {
+    
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f12d2d;
+    border-bottom: 1px solid #000;
+    height: 3em;
+}
+
+.texto {
+    margin: 0;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 1.75em;
+}
+
+.Done {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #19fd2c;
+    height: 3em;
+    border-bottom: 1px solid #000;
+}
+
+.Different {
+    
+    
+    color: #fff;
+}
+
+.SToday {
+    background-color: #fdffff;
+    color: #ffbb00;
+    font-size: 1.25em;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+}
+
+.SToday:hover {
+    color: #fdffff;
+    background-color: #ffbb00;
+}
+
+.SNo{
+    margin: 0;
+}
+
+.Checked {
+    color: #fdffff;
+    background-color: #ffbb00;
+}
