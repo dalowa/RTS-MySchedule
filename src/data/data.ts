@@ -51,5 +51,5 @@ export const Plan:Pro[] = [
   
 ]
 
-export const NDay:number = 1
+export const NDay:number = 2
 

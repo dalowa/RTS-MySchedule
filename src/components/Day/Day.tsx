@@ -1,5 +1,5 @@
 import styles from './Day.module.css'
-import { NDay } from './../../data/data'
+
 import { useState } from 'react'
 
 type Parameters = {
